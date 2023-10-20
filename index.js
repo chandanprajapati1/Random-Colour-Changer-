@@ -36,4 +36,4 @@ document.querySelector("#start").addEventListener('click', startchangingcolor)
 document.querySelector('#stop').addEventListener('click',stopchangingcolor )
 
 
-console.log
+
